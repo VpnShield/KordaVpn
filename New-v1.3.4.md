@@ -1,24 +1,23 @@
 {
-"Title": "فیلترشکن مخصوص اینستاگرام 😁",
-"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
-"Link": "tg://join?invite=vgvZGenx2ZEzMmM8",
-"ColorWave": "#A600FF",
-"Color": "#a600ff",
-"ColorWaveTwo": "#9F2BDC",
+"Title": "⭕️ خبر #مهم",
+"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
+"Link": "tg://join?invite=gRmU0lRa3dxlM2Uy",
+"ColorWave": "#AA00FF",
+"Color": "#AA00FF",
+"ColorWaveTwo": "#E040FB",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "1846",
-"ShowTime": "2",
-"Button": " دانلود فیلترشکن اینستا ",
-"ButtonCancell": " ممنون ",
+"Cancellable": "true",
+"ShowTime": "3",
+"Button": " عضویت فوری ",
+"ButtonCancell": " فیلترشکن میخرم ",
 "Closure": "true",
 "Show": "on"
 }
